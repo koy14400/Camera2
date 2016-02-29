@@ -1,2 +1,8 @@
 build/
 simpleCamera2_SurfaceView.iml
+.idea/
+gradle/
+gradlew
+gradlew.bat
+local.properties
+simpleCamera2_GLSurfaceView.iml
